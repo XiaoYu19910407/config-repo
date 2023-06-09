@@ -7,7 +7,7 @@ spring:
     password: 123456
     url: jdbc:mysql://localhost:3306/springcloud_sell?characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai
 env:
-  test
+  test12
 girl:
   name: LiLi
   age: 19
