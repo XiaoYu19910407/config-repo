@@ -15,8 +15,3 @@ spring:
     password: root #Redis服务器接连密码(默认为空)
   jpa:
     show-sql: true
-env:
-  test4
-girl:
-  name: LiLi
-  age: 22
